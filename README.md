@@ -4,7 +4,16 @@ If you don't know my name call me Musho 😄💕
 
 I`m currently a web developer on my journey to learn as much interesting things as i can 🤯😲
 
-I’ve worked on some tools for a game called SoulWorker and created two sites for it here [VS Calculator](https://mush-0.github.io/VS-Calc/) and [SW Damage Chart](https://mush-0.github.io/sw-dmg-chart/).
+I’ve created some tools for a game called SoulWorker and built two sites for it here [VS Calculator](https://mush-0.github.io/VS-Calc/) and [SW Damage Chart](https://mush-0.github.io/sw-dmg-chart/).
+
+I've Learned from [FreeCodeCamp](https://www.freecodecamp.org/) and Udacity and i can work with:
+- React
+- Redux
+- REST API
+- Webpack
+- NodeJs/Express
+
+Currently i`m interested in learning about data bases.
 
 If you are interested you can always contact me on my discord [Musho- (•̀ᴗ•́)ง#7885](https://discord.com/users/287203639486054412) 
 
